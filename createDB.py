@@ -20,7 +20,7 @@ print url
 import os
 import json
 import requests
-from cloudant.account import Cloudant
+from cloudant.client import Cloudant
 from cloudant.result import Result
 
 #---------------------------------------------------------------------------------------------------------------#

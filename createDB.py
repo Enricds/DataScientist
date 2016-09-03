@@ -1,11 +1,12 @@
 credentials = {"credentials":
 {
-  "username": "61e62b6c-03f5-446b-a7d5-96176cda0dfe-bluemix",
-  "password": "e9f3a42b5f440b43b13b31d1ece92dba889f63937630eebe968366a9929961aa",
-  "host": "61e62b6c-03f5-446b-a7d5-96176cda0dfe-bluemix.cloudant.com",
+  "username": "fe1b6cb2-7773-4733-ad2d-97d9228b178f-bluemix",
+  "password": "0c607005ec59e5cfb74cb8bf51f3b1c69a57158539f8506feaa79bc60b6af058",
+  "host": "fe1b6cb2-7773-4733-ad2d-97d9228b178f-bluemix.cloudant.com",
   "port": 443,
-  "url": "https://61e62b6c-03f5-446b-a7d5-96176cda0dfe-bluemix:e9f3a42b5f440b43b13b31d1ece92dba889f63937630eebe968366a9929961aa@61e62b6c-03f5-446b-a7d5-96176cda0dfe-bluemix.cloudant.com"
-} }
+  "url": "https://fe1b6cb2-7773-4733-ad2d-97d9228b178f-bluemix:0c607005ec59e5cfb74cb8bf51f3b1c69a57158539f8506feaa79bc60b6af058@fe1b6cb2-7773-4733-ad2d-97d9228b178f-bluemix.cloudant.com"
+}
+}
 
 username = credentials['credentials']['username']
 password = credentials['credentials']['password']
